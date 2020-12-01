@@ -55,15 +55,15 @@ It can be seen in the table that Smoothies & Shakes has the highest average calo
 ![Alt text](images/scatt1.JPG)
 ![Alt text](images/scatt2.JPG)
   
-From the scatter plot above, it can be seen that cluster 0 has the characteristics of avg_daily_value, calories of fat, Trans Fat and Protein which tend to be high while cluster 1 tend to be low calories
+  From the scatter plot above, it can be seen that cluster 0 has the characteristics of avg_daily_value, calories of fat, Trans Fat and Protein which tend to be high while cluster 1 tend to be low calories
   
-![Alt text](images/category 0.JPG)
+![Alt text](images/category0.JPG)
   
-Cluster 0 tends to be in breakfast category.
+  Cluster 0 tends to be in breakfast category.
   
-![Alt text](images/category 1.JPG)
+![Alt text](images/category1.JPG)
 
-Cluster 1 tends to be in Coffe and Tea category.
+  Cluster 1 tends to be in Coffe and Tea category.
 
 ![Alt text](images/cluster0.JPG)
 ![Alt text](images/cluster1.JPG)
@@ -76,6 +76,6 @@ Cluster 1 tends to be in Coffe and Tea category.
   
 ## Evaluation
 
-![Alt text](images/elbow method.JPG)
+![Alt text](images/elbow_method.JPG)
 
 Evaluation is carried out to determine the best cluster k. When the line chart forms an "Elbow", then the k value is the best k value. "Elbow" can go up or down, but if there is a sharp drop, this is the best k value.
