@@ -1,20 +1,19 @@
 # Nutrition-Fact-for-McDonald's-Menu-Clustering
 
-## 1.	Business Understanding
-### Business Background
+## Business Background
 Fast Food is known for unhealthy food. The stigma that is formed in society is fast food does not contain nutrients. Because of this stigma, fast food customers began to decrease. one of the company that affected is McDonald's. The impact is McDonald's customer reduction. Therefore, McDonald's makes service improvements by paying attention to the nutritional level of customers in order to keep consuming fast food safely and to increase sales activity again. The thing that can be done is to do a combination of the McDonald's menu where the combination has a number of calories that is not excessive so it is safe for consumption by customers. The combination will be in the form of a food package, which has a Main menu, drink and additional menu.
 
-### Problem
+## Problem
 Reduced McDonalds customers due to the unhealthy stigma of fast food, which can cause a decrease in buying and selling activities and company profits.
 
-### Business Question
+## Business Question
 - How is the combination of McDonald's menu that can meet the customer's daily nutritional needs?
 The analytical approach taken is clustering, which is make the cluster of McDonald's menu into several groups which will be compared specifically for the characteristics of each group.
 
-### Goals
+## Goals
 Retain customers that consuming fast food but still pay attention to nutritional needs so it's safe for consumption. It also aims to increase sales activity so that the company does not experience losses continuously.
 
-## 2.	Methodologies, preparation and analysis
+## About Data
 - a. Data Requirement
   - The data needed based on the business understanding above is the Nutrition Facts for MCDonald's Menu data with the .csv format consisting of the column category, item, serving size, calories, calories from fat, total fat, total fat (% daily value), saturated fat, saturated fat (% daily value), trans fat, carbohydrates, carbohydrates (% daily value), dietary fiber, dietary fiber (% daily value), sugars, protein, vitamin A (% daily value), vitamin C (% daily value) , Calcium (% daily value), and iron (% daily value).
 - b. Data Collection
