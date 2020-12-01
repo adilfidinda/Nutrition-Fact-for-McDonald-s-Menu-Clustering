@@ -57,16 +57,16 @@ It can be seen in the table that Smoothies & Shakes has the highest average calo
   
   From the scatter plot above, it can be seen that cluster 0 has the characteristics of avg_daily_value, calories of fat, Trans Fat and Protein which tend to be high while cluster 1 tend to be low calories
   
-![Alt text](images/caterogy 0.JPG)
+  ![Alt text](images/category 0.JPG)
   
   Cluster 0 tends to be in breakfast category.
   
-![Alt text](images/caterogy 1.JPG)
+  ![Alt text](images/category 1.JPG)
 
   Cluster 1 tends to be in Coffe and Tea category.
 
-![Alt text](images/cluster0.JPG)
-![Alt text](images/cluster1.JPG)
+  ![Alt text](images/cluster0.JPG)
+  ![Alt text](images/cluster1.JPG)
   
   Cluster 0: has 220 - 1150 calories, Calories from Fat 80 - 540 calories, Trans Fat 0 - 2.5 grams, Protein 6 - 4.8 grams and avg_daily_value 15.2 - 63.3%. (High Calories)
   
