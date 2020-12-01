@@ -41,12 +41,26 @@ Retain customers that consuming fast food but still pay attention to nutritional
   - Iron (% daily value): Percentage of iron content in energy needs per day (2000 calories).
 
 ![Alt text](images/mcd.JPG)
+
 This image shows data distribution of the calories. The graph shows that the calories content on the McDonald's menu tends to be higher at 100 - 550 calories
 
 ![Alt text](images/mcd2.JPG)
+
 It can be seen in the table that Smoothies & Shakes has the highest average calories
 
 ## Modelling
   - Use one of unsupervised learning, Kmeans, where this algorithm is partitioning clustering that divides clusters of data that have the same characteristics. The concept is to form clusters where similar samples enter the same cluster and different samples enter into other clusters.
   - Result :
+  
+  ![Alt text](images/scatt1.JPG)
+  ![Alt text](images/scatt2.JPG)
+  
+  From the scatter plot above, it can be seen that cluster 0 has the characteristics of avg_daily_value, calories of fat, Trans Fat and Protein which tend to be high while cluster 1 tend to be low calories
+  
+  ![Alt text](images/caterogy0.JPG)
+  
+  Cluster 0 tends to be in breakfast category.
+  
+  ![Alt text](images/caterogy1.JPG)
 
+  Cluster 1 tends to be in Coffe and Tea category.
