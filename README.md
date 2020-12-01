@@ -57,10 +57,25 @@ It can be seen in the table that Smoothies & Shakes has the highest average calo
   
   From the scatter plot above, it can be seen that cluster 0 has the characteristics of avg_daily_value, calories of fat, Trans Fat and Protein which tend to be high while cluster 1 tend to be low calories
   
-  ![Alt text](images/caterogy0.JPG)
+  ![Alt text](images/caterogy 0.JPG)
   
   Cluster 0 tends to be in breakfast category.
   
-  ![Alt text](images/caterogy1.JPG)
+  ![Alt text](images/caterogy 1.JPG)
 
   Cluster 1 tends to be in Coffe and Tea category.
+
+  ![Alt text](images/cluster0.JPG)
+  ![Alt text](images/cluster1.JPG)
+  
+  Cluster 0: has 220 - 1150 calories, Calories from Fat 80 - 540 calories, Trans Fat 0 - 2.5 grams, Protein 6 - 4.8 grams and avg_daily_value 15.2 - 63.3%. (High Calories)
+  
+  Cluster 1: has 0 - 460 calories, Calories from Fat 0 - 200 calories, Trans Fat 0 - 0.5 grams, Protein 0-19 grams and avg_daily_value 0 - 28.7%. (Low Calories)
+  
+  Based on this clusters, The food can be combined for packages that will be offered. For example, when food comes from cluster 0 it can be packaged with drinks from cluster 1 and vice versa. For example the Breakfast package with Sausage McMuffin (cluster 0) and Caramel Latte (Small) (cluster 1) or the Lunch Package with Double Cheeseburger (cluster 1) and Coca Cola Classic (Small) (cluster 0).
+  
+## Evaluation
+
+![Alt text](images/elbow method.JPG)
+
+Evaluation is carried out to determine the best cluster k. When the line chart forms an "Elbow", then the k value is the best k value. "Elbow" can go up or down, but if there is a sharp drop, this is the best k value.
